@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Suraj 👋
 
-<!--
-**surajthapak07/surajthapak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student
+- 💻 Interested in Artificial Intelligence and Software Development
+- 🌱 Currently learning Machine Learning and Prompt Engineering
+- 🚀 Working on academic and personal coding projects
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C++
+- HTML & CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### AI Notes Summarizer
+A tool for summarizing AI course notes.
+
+### Portfolio Website
+Personal website showcasing my projects and skills.
+
+## Contact
+- GitHub: https://github.com/surajthapak07
+- Email: thapaksuraj394@gmail.com
+
+## Fun Fact
+I enjoy learning new technologies and solving coding problems.
