@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Thapak</h1>
+<h1 align="center">Hi , I'm Suraj Thapak</h1>
 <h3 align="center">Computer Science Engineering Student | Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
